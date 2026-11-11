@@ -1,0 +1,4 @@
+vllm
+chess
+pandas
+huggingface_hub[hf_transfer]
