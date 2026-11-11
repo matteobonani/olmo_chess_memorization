@@ -6,6 +6,8 @@ __pycache__/
 venv/
 env/
 .env
+.idea/
+.vscode/
 
 dolma3_chess/*
 !dolma3_chess/seen_final.csv
